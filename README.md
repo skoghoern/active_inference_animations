@@ -14,7 +14,7 @@ The Active Inference Loop project visualizes the concept of active inference usi
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/skoghoern/active_inference_animations
    cd <repository-directory>
    ```
 
