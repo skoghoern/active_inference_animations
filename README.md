@@ -4,6 +4,11 @@
 
 The Active Inference Loop project visualizes the concept of active inference using the Manim animation engine. It demonstrates the interactions between an agent and its environment, showcasing various states and actions within the active inference framework.
 
+## Video Demonstration
+
+You can watch the video demonstration
+![Video Demonstration](public/ActiveInferenceLoop.gif)
+
 ## Requirements
 
 - Python 3.7 or higher
